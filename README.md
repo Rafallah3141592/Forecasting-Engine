@@ -9,6 +9,9 @@ A Streamlit-based application that helps small and medium-sized businesses forec
 This project uses machine learning (LightGBM) to forecast SKU-level demand based on historical sales data. It automatically processes Excel uploads, engineers time-based features, and generates actionable insights such as forecast quantities, safety stock, reorder recommendations, and forecast accuracy.
 
 ---
+**********************************************************************************************************************************************************
+HuggingFace Space : https://huggingface.co/spaces/Rafallah3141592/forecasting_engine.mvp/blob/main/app.py
+**********************************************************************************************************************************************************
 
 ##  Key Features
 
