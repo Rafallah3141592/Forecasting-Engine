@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+lightgbm
+altair
+openpyxl
+scikit-learn
