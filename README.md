@@ -10,7 +10,7 @@ This project uses machine learning (LightGBM) to forecast SKU-level demand based
 
 ---
 **********************************************************************************************************************************************************
-HuggingFace Space : https://huggingface.co/spaces/Rafallah3141592/forecasting_engine.mvp/blob/main/app.py
+HuggingFace Space : https://huggingface.co/spaces/Rafallah3141592/forecasting_engine.mvp
 **********************************************************************************************************************************************************
 
 ##  Key Features
